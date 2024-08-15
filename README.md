@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Hung Nguyen!!! 👋
+
+👨‍💻 A Business Data Analyst share his own projects to:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Showcase technical skills using data analytic tools<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Solve business problems, especially for tech business<br/>
+👨‍🎓 Studied Applied Finance at Western Sydney University, Australia<br/>
+🥅 Currently earned more certificates relating to Data from Microsoft, SQLBI, DataCamp, Coursera<br/>
+💥 Visit my [LinkedIn profile](https://www.linkedin.com/in/nguyentranphihung/) for more details about my certificates, work experience and education!!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phungg164&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phungg164/phungg164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
