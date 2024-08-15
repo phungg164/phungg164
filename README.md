@@ -1,5 +1,5 @@
 ### Hi there, I'm Hung Nguyen!!! 👋
-👨‍💻 A Business Data Analyst share his own projects to:<br>          
+👨‍💻 A Business Data Analyst share his own projects to:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Showcase technical skills using data analytic tools<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Solve business problems, especially for tech business<br/>
 👨‍🎓 Studied Applied Finance at Western Sydney University, Australia<br>
