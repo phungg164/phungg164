@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Showcase technical skills using data analytic tools<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Solve business problems, especially for tech business<br/>
 👨‍🎓 Studied Applied Finance at Western Sydney University, Australia<br>
-🥅 Currently earned more certificates relating to Data from Microsoft, SQLBI, DataCamp, Coursera<br>
+🥅 Currently earned more certificates relating to Data from Microsoft, SQLBI, DataCamp, Coursera ...<br>
 💥 Visit my [LinkedIn profile](https://www.linkedin.com/in/nguyentranphihung/) profile for more details about my certificates, work experience and education!!
 
 
