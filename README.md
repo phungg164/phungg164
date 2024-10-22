@@ -16,11 +16,10 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=phungg164&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **phungg164/phungg164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
